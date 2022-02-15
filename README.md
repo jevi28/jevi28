@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevi28&show_icons=true&theme=radical" alt="Arwan's github most used"/>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jevi28&show_icons=true&theme=merko" alt="Arwan's github most used"/>
 </div>
 
 ## ☎️ Connect With Me :
