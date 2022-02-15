@@ -7,7 +7,7 @@
 > - Jevi Alvenosa 2022
 
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=jevi28&show_icons=true&theme=radical" alt="Arwan's github stats"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=jevi28&show_icons=true&theme=dark" alt="Arwan's github stats"/>
 </div>
 
 <div align="center">
